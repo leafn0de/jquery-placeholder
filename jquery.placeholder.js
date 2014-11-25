@@ -1,4 +1,4 @@
-/*! http://mths.be/placeholder v2.0.8 by @mathias */
+/*! https://github.com/leafn0de/jquery-placeholder, forked from http://mths.be/placeholder v2.0.8 by @mathias */
 ;(function(window, document, $) {
 
 	// Opera Mini v7 doesn’t support placeholder although its DOM seems to indicate so
